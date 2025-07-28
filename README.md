@@ -1,4 +1,12 @@
-## Hi there 👋
+
+# Hi there 👋 I'm [Mohamed Ali ]
+
+👨‍💻 Full-stack Developer | Open Source Enthusiast | [Tech Stack/Title]
+🔭 I’m currently working on: [Project or learning goal]
+🌱 I’m currently learning: [Tech/tool]
+💬 Ask me about: [Topics you're confident with]
+📫 How to reach me: [Email, LinkedIn, etc.]
+
 
 
 ## 🌐 Socials:
