@@ -3,13 +3,13 @@
 
 👨‍💻 Full-stack Developer | Open Source Enthusiast | [Tech Stack/Title]
 
-🔭 I’m currently working on: [Project or learning goal]
+🔭 I’m currently working on: projects
 
-🌱 I’m currently learning: [Tech/tool]
+🌱 I’m currently learning: AG & AI integrations 
 
 💬 Ask me about: [Topics you're confident with]
 
-📫 How to reach me: [Email, LinkedIn, etc.]
+📫 How to reach me: linkedin.com/in/dalihabli
 
 
 
