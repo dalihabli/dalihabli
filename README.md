@@ -1,7 +1,7 @@
 
-# Hi there 👋 I'm [Mohamed Ali ]
+# Hi there 👋 I'm Mohamed Ali HABLI 
 
-👨‍💻 Full-stack Developer | Open Source Enthusiast | [Tech Stack/Title]
+👨‍💻 Full-stack Developer | Open Source Enthusiast |
 
 🔭 I’m currently working on: projects
 
